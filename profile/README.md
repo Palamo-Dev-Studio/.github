@@ -1,74 +1,60 @@
-## Palamo Dev Studio
+## Palamo Studio
 
-**Imagination, delivered.**
+**AI you can defend.**
 
-Palamo Dev Studio creates mobile software and games that entertain, empower, and inspire. We build thoughtful digital products with a focus on quality, clarity, and long-term value.
+Palamo Studio is an AI governance and deployment consultancy based in Henderson, NV. We help mid-market companies adopt AI responsibly, measurably, and in a way finance can justify.
 
-We work at the intersection of **creativity, engineering, and operations** — turning ideas into products with care and discipline. Our work spans mobile applications, UI/UX systems, data-driven platforms, and AI-enabled workflows.
+We work at the intersection of **governance, engineering, and operations** — building compliance frameworks, agentic workflows, and production AI systems with audit trails, rollback design, and CFO-ready reporting baked in from day one.
 
-Our approach is deliberate: **design first, engineer with restraint, and build for longevity**.
+Our approach: **measure first, govern always, scale only when the numbers say so.**
 
 
 
 ## what we build
 
-- 📱 Mobile applications and games  
-- 🎨 Design-led UI/UX systems  
-- 🧠 AI-enabled tools and workflows  
-- 📊 Data-driven platforms and internal systems  
-- 🗣️ Bilingual and culturally-aware software experiences  
+- 🛡️ AI governance and compliance frameworks
+- ⚙️ Governed agentic workflows with human-in-the-loop checkpoints
+- 🌐 Bilingual web platforms and content pipelines (EN/ES/PT)
+- 📱 Cross-platform mobile applications
+- 🧠 Production AI systems — RAG, LLM pipelines, multilingual NLP
+- 📰 [The Crash Log](https://crashlog.ai) — a daily AI accountability newsletter produced by a governed agentic system
 
-We focus on products that feel useful, intuitive, and human — not over-engineered or disposable.
+We build things that survive production, not just demos.
 
 
 
 ## our team
 
-### Rocio Palma  
-**Chief Financial & Operations Officer**
+### Hector Luis Alamo
+**Co-Founder & AI Systems Architect**
 
-Rocio is a strategic CFO and operations leader with over 20 years of experience in finance, systems, and organizational execution. She has led a high-growth company through financial transformation, operational scaling, and a complex reporting environment with calm precision and accountability.
+Hector spent a decade in Latino media — at Latino Rebels, Futuro Media Group, and Gozamos — covering politics, culture, and the communities that technology often overlooks. He taught himself to code through Harvard's CS50, earned HarvardX certificates in Data Science & Machine Learning and CS for AI, and now designs the governed agentic systems behind The Crash Log and Palamo's client engagements. He thinks like a journalist and builds like an engineer — which means every system he ships is auditable, explainable, and built for people who ask hard questions.
 
-With executive education from Columbia Business School and deep expertise in NetSuite-driven systems, Rocio brings structure to ambition and discipline to growth.
+### Rocio Palma
+**Co-Founder, CFO & Ops Governance Director**
 
-At Palamo, she ensures every product, process, and partnership is built on strong financial logic, operational clarity, and long-term sustainability.
-
-*Where others chase momentum, Rocio builds foundations.*
-
-
-### Hector Alamo  
-**Lead Developer & Product Architect**
-
-Hector is the creative and technical force behind Palamo Dev Studio’s applications and games. He specializes in building intelligent, user-focused mobile experiences that combine performance, design, and emerging technologies.
-
-After more than a decade leading media outlets, Hector transitioned into AI engineering, data science, and software development. His work includes mobile apps, bilingual AI systems, retrieval-augmented generation pipelines, and data-driven tools designed for modern life.
-
-He holds HarvardX Verified Certificates in Data Science & Machine Learning and Computer Science for Artificial Intelligence, with training in algorithm design, modeling, and applied AI.
-
-He believes software should solve everyday problems while connecting with real people.
+Rocio brings 20+ years in corporate finance and executive education from Columbia Business School. She turns AI projects into CFO-credible programs — KPI framing, value tracking, process controls, and decision gates that prevent runaway automation spend. She de-risks AI adoption by aligning technical rollout to financial accountability. Where others chase momentum, Rocio builds foundations.
 
 
 
 ## how we work
 
-- intentional design over novelty  
-- small teams and direct collaboration  
-- clarity before complexity  
-- systems that respect users and operators  
-- technology in service of real outcomes  
+- rigor over speed — every automation ships with guardrails
+- measure before you build, instrument before you scale
+- honest partnership — we'll tell you if a simpler approach works better
+- bilingual and culturally grounded — built for the Americas, not just Silicon Valley
+- outcomes over output — user adoption and revenue impact, not lines of code
 
 
 
 ## this GitHub
 
 This organization hosts:
-- production code for Palamo products  
-- experiments and prototypes  
-- internal tools and workflows  
-- open-source components as they emerge  
+- [crash-log](https://github.com/Palamo-Dev-Studio/crash-log) — The Crash Log newsletter site (Next.js, Sanity, bilingual)
+- [palamo-site](https://github.com/Palamo-Dev-Studio/palamo-site) — Palamo Studio marketing site (Next.js, Tailwind, trilingual)
+- Client engagement codebases and internal tools
+- Production agentic workflow infrastructure
 
-We build in public when it makes sense and value collaboration, feedback, and shared learning.
+We build in public when it makes sense. If you're exploring AI governance, agentic workflows, or responsible AI deployment — especially in Latin America — we'd like to hear from you.
 
-
-
-If you’re interested in thoughtful software, intelligent systems, or building something meaningful, you’re in the right place.
+**info@palamostudio.com** · [palamostudio.com](https://www.palamostudio.com) · [crashlog.ai](https://crashlog.ai)
