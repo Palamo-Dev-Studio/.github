@@ -1,6 +1,6 @@
 ## Palamo Studio
 
-**AI you can defend.**
+**Governed AI. Disciplined ops.**
 
 Palamo Studio is an AI governance and deployment consultancy based in Henderson, NV. We help mid-market companies adopt AI responsibly, measurably, and in a way finance can justify.
 
