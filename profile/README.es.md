@@ -12,7 +12,7 @@ Ayudamos a pequeñas y medianas empresas a implementar IA — y a manejar las fi
 
 Contrata a uno de los dos, o a ambos — a la medida de tus objetivos, caso por caso.
 
-- 🧭 **Hector — Ingeniería de IA (CAIO fraccional).** Liderazgo de IA sin el puesto de tiempo completo. Se hace cargo de tu programa de IA de punta a punta: estrategia y hoja de ruta, gobernanza/riesgo/cumplimiento, selección de proveedores y modelos, desarrollo de capacidades del equipo y reportes listos para la dirección — y él mismo construye y despliega los flujos agénticos, las integraciones y los sistemas en producción.
+- 🧭 **Hector — Ingeniería de IA.** Liderazgo de IA sin el puesto de tiempo completo. Se hace cargo de tu programa de IA de punta a punta: estrategia y hoja de ruta, gobernanza/riesgo/cumplimiento, selección de proveedores y modelos, desarrollo de capacidades del equipo y reportes listos para la dirección — y él mismo construye y despliega los flujos agénticos, las integraciones y los sistemas en producción.
 - 💵 **Rocio — Finanzas (CFO fraccional).** Liderazgo financiero sin el puesto de tiempo completo, y valioso con o sin un proyecto de IA de por medio: definición de KPIs y seguimiento de valor, controles de proceso y compuertas de decisión, operaciones sobre NetSuite, escalamiento organizacional y estados financieros listos para la dirección, respaldados por más de 20 años en finanzas corporativas. ¿Quieres automatización encima? Su práctica puede correr sobre herramientas agénticas del lado de Hector — análisis impulsado por IA, integrado.
 - 🔗 **Los dos, juntos.** Ingeniería de IA y finanzas como una sola dupla responsable: cada dólar de IA medido, gobernado y con retorno demostrable, sobre una hoja de ruta y un reporte compartidos. El trabajo conjunto que ningún ejecutivo fraccional en solitario puede igualar.
 - 🔎 **Evaluaciones.** Un piloto corto y pagado — una forma de bajo compromiso de trabajar con cualquiera de los dos, o con ambos, antes de comprometerte con un puesto permanente.
@@ -39,7 +39,7 @@ Mide antes de construir; escala solo cuando los números lo digan.
 ## Este GitHub
 
 - [crash-log](https://github.com/Palamo-Dev-Studio/crash-log) — Next.js, Sanity, bilingüe
-- palamo-site (privado) — Next.js, Tailwind, bilingüe (EN/ES)
+- [AP Copilot](https://github.com/Palamo-Dev-Studio/ap-invoice-processor) — un agente de facturas de cuentas por pagar con revisión humana para las facturas de monto alto o riesgosas, que registra en un ERP NetSuite simulado vía MCP; Python, Google ADK
 - [ChicaFit](https://github.com/hectorluisalamo/chicafit-showcase) — app de bienestar bilingüe para mujeres latinas, React Native / Expo (caso de estudio + arquitectura, público)
 - Bases de código de proyectos con clientes e infraestructura de flujos de trabajo
 

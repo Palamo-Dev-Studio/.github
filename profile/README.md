@@ -12,7 +12,7 @@ We help small and mid-size businesses deploy AI — and run the finances around 
 
 Engage one of us, or both — scoped case by case to your goals.
 
-- 🧭 **Hector — AI Engineering (Fractional CAIO).** AI leadership without the full-time seat. Owns your AI program end to end: strategy and roadmap, governance/risk/compliance, vendor and model selection, team capability-building, and leadership-ready reporting — and builds and ships the agentic workflows, integrations, and production systems himself.
+- 🧭 **Hector — AI Engineering.** AI leadership without the full-time seat. Owns your AI program end to end: strategy and roadmap, governance/risk/compliance, vendor and model selection, team capability-building, and leadership-ready reporting — and builds and ships the agentic workflows, integrations, and production systems himself.
 - 💵 **Rocio — Finance (Fractional CFO).** Finance leadership without the full-time seat, and valuable with or without an AI project in the room: KPI framing and value tracking, process controls and decision gates, NetSuite-driven operations, organizational scaling, and leadership-ready financials from 20+ years in corporate finance. Want automation on top? Her practice can run on agentic tooling from Hector's side — AI-driven insight, built in.
 - 🔗 **Both, together.** AI engineering and finance as one accountable pairing: every AI dollar tracked, governed, and provably returned, on a shared roadmap and shared reporting. The joint engagement no solo fractional exec can match.
 - 🔎 **Assessments.** A short, paid pilot — a low-commitment way to work with either or both of us before committing to an ongoing seat.
@@ -39,7 +39,7 @@ Measure before you build; scale only when the numbers say so.
 ## This GitHub
 
 - [crash-log](https://github.com/Palamo-Dev-Studio/crash-log) — Next.js, Sanity, bilingual
-- palamo-site (private) — Next.js, Tailwind, bilingual (EN/ES)
+- [AP Copilot](https://github.com/Palamo-Dev-Studio/ap-invoice-processor) — an accounts-payable invoice agent with a human-in-the-loop gate on high-dollar or risky invoices, posting to a mock NetSuite ERP over MCP; Python, Google ADK
 - [ChicaFit](https://github.com/hectorluisalamo/chicafit-showcase) — a bilingual wellness app for Latina women, React Native / Expo (public case study + architecture)
 - Client engagement codebases and workflow infrastructure
 
