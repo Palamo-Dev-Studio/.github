@@ -12,11 +12,11 @@ We help small and mid-size businesses deploy AI — and run the finances around 
 
 Engage one of us, or both — scoped case by case to your goals.
 
-- 🧭 **Hector — AI Engineering (Fractional CAIO).** AI leadership without the full-time seat. Owns your AI program end to end: strategy and roadmap, governance/risk/compliance, vendor and model selection, team capability-building, and leadership-ready reporting — and builds and ships the AI workflows, integrations, and production systems himself.
-- 💵 **Rocio — Finance (Fractional CFO).** Finance leadership without the full-time seat, and valuable with or without an AI project in the room: KPI framing and value tracking, process controls and decision gates, NetSuite-driven operations, organizational scaling, and leadership-ready financials from 20+ years in corporate finance. Want automation on top? Her practice can run on AI tooling from Hector's side — AI-driven insight, built in.
+- 🧭 **Hector — AI Engineering (Fractional CAIO).** AI leadership without the full-time seat. Owns your AI program end to end: strategy and roadmap, governance/risk/compliance, vendor and model selection, team capability-building, and leadership-ready reporting — and builds and ships the agentic workflows, integrations, and production systems himself.
+- 💵 **Rocio — Finance (Fractional CFO).** Finance leadership without the full-time seat, and valuable with or without an AI project in the room: KPI framing and value tracking, process controls and decision gates, NetSuite-driven operations, organizational scaling, and leadership-ready financials from 20+ years in corporate finance. Want automation on top? Her practice can run on agentic tooling from Hector's side — AI-driven insight, built in.
 - 🔗 **Both, together.** AI engineering and finance as one accountable pairing: every AI dollar tracked, governed, and provably returned, on a shared roadmap and shared reporting. The joint engagement no solo fractional exec can match.
 - 🔎 **Assessments.** A short, paid pilot — a low-commitment way to work with either or both of us before committing to an ongoing seat.
-- 📰 **The Crash Log** (crashlog.ai) — a bilingual newsletter on AI and tech gone off the rails, produced by a governed AI system.
+- 📰 **The Crash Log** (crashlog.ai) — a bilingual newsletter on AI and tech gone off the rails, produced by a governed agentic AI system.
 
 We build things that survive production, not just demos.
 
@@ -26,7 +26,7 @@ We build things that survive production, not just demos.
 20+ years in corporate finance, with executive education from Columbia Business School — KPI framing, value tracking, process controls, and decision gates, backed by a track record in NetSuite-driven operations and organizational scaling. She turns finance into a discipline leadership can act on, and when AI is in play, de-risks adoption by aligning technical rollout to financial accountability. Where others chase momentum, Rocio builds foundations.
 
 ### Hector Luis Alamo — Co-Founder & AI Engineer
-Over a decade in media (editor at Latino Rebels, senior editor at Futuro Media Group, managing editor); self-taught via Harvard's CS50; HarvardX certs in Data Science & ML and CS for AI. Built the production AI systems behind The Crash Log; designs governed AI workflows, bilingual content pipelines, and AI systems that run 24/7. Currently leads AI implementation across departments for an international OEM manufacturer, building finance and executive copilots. Thinks like a journalist, builds like an engineer, reviews like an editor — auditable, explainable systems.
+Over a decade in media (editor at Latino Rebels, senior editor at Futuro Media Group, managing editor); self-taught via Harvard's CS50; HarvardX certs in Data Science & ML and CS for AI. Built the production AI systems behind The Crash Log; designs governed AI workflows, bilingual content pipelines, and 24/7 agentic systems. Currently leads AI implementation across departments for an international OEM manufacturer, building finance and executive copilots. Thinks like a journalist, builds like an engineer, reviews like an editor — auditable, explainable systems.
 
 ## How We Work
 
