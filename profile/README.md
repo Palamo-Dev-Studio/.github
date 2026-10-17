@@ -2,7 +2,7 @@
 
 **Governed AI. Disciplined Finance.**
 
-Palamo was founded by Rocio Palma and Hector Alamo. <!-- pending brief: team-framing --> **Hector Luis Alamo** leads on AI engineering and **Rocio Palma** on finance. Bring in either of us on our own, or both together; mix and match to fit what you actually need. Operator-led, based in Henderson, NV.
+Palamo was founded by Rocio Palma and Hector Alamo. <!-- pending brief: team-framing --> **Hector Luis Alamo** leads AI engineering and **Rocio Palma** leads finance. Bring in either of us on our own, or both together; mix and match to fit what you actually need. Operator-led, based in Henderson, NV.
 
 **[Léelo en español →](README.es.md)**
 

@@ -39,7 +39,7 @@ Mide antes de construir; escala solo cuando los números lo digan.
 ## Este GitHub
 
 - [crash-log](https://github.com/Palamo-Dev-Studio/crash-log) — Next.js, Sanity, bilingüe
-- [AP Copilot](https://github.com/Palamo-Dev-Studio/ap-invoice-processor) — un agente de facturas de cuentas por pagar con revisión humana para las facturas de monto alto o riesgosas, que registra en un ERP NetSuite simulado vía MCP; Python, Google ADK
+- [AP Copilot](https://github.com/Palamo-Dev-Studio/ap-invoice-processor) — un agente de cuentas por pagar que procesa facturas con revisión humana para las de monto alto o riesgosas, y que registra en un ERP NetSuite simulado vía MCP; Python, Google ADK
 - [ChicaFit](https://github.com/hectorluisalamo/chicafit-showcase) — app de bienestar bilingüe para mujeres latinas, React Native / Expo (caso de estudio + arquitectura, público)
 - Bases de código de proyectos con clientes e infraestructura de flujos de trabajo
 
