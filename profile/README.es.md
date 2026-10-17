@@ -1,26 +1,40 @@
-## Palamo
+## Palamo Studio
 
-**IA gobernada. Finanzas disciplinadas. Un ingeniero de IA y una CFO para pequeñas y medianas empresas.** <!-- pending brief: buyer, team-framing -->
+**IA gobernada. Finanzas disciplinadas.**
+
+Palamo Studio es un colectivo de dos personas — **Hector Luis Alamo** en operaciones de IA y **Rocío Palma** en finanzas. Trabaja con cualquiera de los dos por separado, o con ambos en conjunto; combínanos según lo que de verdad necesites. Dirigido por operadores, con base en Henderson, Nevada.
 
 **[Read in English →](README.md)**
 
-Para dueños de pequeñas y medianas empresas: un ingeniero de IA pone la IA a trabajar en tus procesos reales, y una CFO comprueba que la inversión rinda. <!-- pending brief: one-sentence-offer, buyer -->
+Ayudamos a empresas medianas a implementar IA — y a manejar las finanzas que la rodean — con la gobernanza, la medición y la rendición de cuentas que exigen la dirección y los reguladores. No solo asesoramos: los mismos operadores que arman el plan son quienes hacen el trabajo, con trazabilidad de auditoría, diseño de reversión y reportes listos para el CFO desde el primer día.
 
-Palamo somos Hector Alamo y Rocio Palma: un ingeniero de IA y una CFO que trabajan como un solo equipo. <!-- pending brief: team-framing --> Rocio tiene más de 20 años de experiencia en finanzas corporativas. Hector pasó del periodismo a la ingeniería de IA. En los proyectos de IA, Rocio verifica que la inversión se pague. En los de finanzas, dirige tus finanzas. <!-- pending brief: cfo-one-story -->
+## Cómo trabajar con nosotros
 
-Tres áreas:
+Contrata a uno de los dos, o a ambos — a la medida de tus objetivos, caso por caso.
 
-- Ingeniería de IA: ponemos la IA a trabajar en tus procesos, con controles de aprobación: por encima de los límites que tú fijas, una persona da el visto bueno.
-- CFO fraccional: liderazgo financiero sin contratar a alguien de tiempo completo.
-- IA + Finanzas: las dos cosas, con un solo equipo, una sola hoja de ruta y un solo informe.
+- 🧭 **Hector — Operaciones de IA (CAIO fraccional).** Liderazgo de IA sin el puesto de tiempo completo. Se hace cargo de tu programa de IA de punta a punta: estrategia y hoja de ruta, gobernanza/riesgo/cumplimiento, selección de proveedores y modelos, desarrollo de capacidades del equipo y reportes listos para la dirección — y él mismo construye y despliega los flujos agénticos, las integraciones y los sistemas en producción.
+- 💵 **Rocío — Finanzas (CFO fraccional).** Liderazgo financiero sin el puesto de tiempo completo, y valioso con o sin un proyecto de IA de por medio: definición de KPIs y seguimiento de valor, controles de proceso y compuertas de decisión, operaciones sobre NetSuite, escalamiento organizacional y estados financieros listos para la dirección, respaldados por más de 20 años en finanzas corporativas. ¿Quieres automatización encima? Su práctica puede correr sobre herramientas agénticas del lado de Hector — análisis impulsado por IA, integrado.
+- 🔗 **Los dos, juntos.** Operaciones de IA y finanzas como una sola dupla responsable: cada dólar de IA medido, gobernado y con retorno demostrable, sobre una hoja de ruta y un reporte compartidos. El trabajo conjunto que ningún ejecutivo fraccional en solitario puede igualar.
+- 🔎 **Evaluaciones.** Un piloto corto y pagado — una forma de bajo compromiso de trabajar con cualquiera de los dos antes de comprometerte con un puesto permanente.
+- 📰 **The Crash Log** (crashlog.ai) — un boletín bilingüe sobre la IA y la tecnología que se sale de control, producido por un sistema agéntico gobernado.
 
-Todo proyecto empieza con una evaluación de 10 días hábiles, con tarifa fija: US$3,000 la de Ingeniería de IA, US$3,500 la de CFO fraccional y US$6,000 la de IA + Finanzas. <!-- pending brief: show-pricing --> La evaluación de Ingeniería de IA te muestra qué IA usa ya tu equipo, dónde te expone, qué usos valen la pena, ordenados por costo y retorno, y las reglas que firma tu dirección. <!-- pending brief: what-3000-buys -->
+Construimos cosas que sobreviven en producción, no solo demos.
 
-Si la implementación arranca dentro de los 90 días siguientes, te acreditamos el 100% de la tarifa de la evaluación. <!-- pending brief: risk-reversal --> Al terminar la evaluación recibes una cotización mensual fija, sin obligación de continuar. <!-- pending brief: retainer-price -->
+## Nuestro equipo
 
-El primer paso es una llamada de 30 minutos con los dos. <!-- pending brief: first-conversation -->
+### Rocío Palma — Cofundadora, COO y CFO
+Más de 20 años en finanzas corporativas, con educación ejecutiva de Columbia Business School — definición de KPIs, seguimiento de valor, controles de proceso y compuertas de decisión, respaldados por una trayectoria en operaciones sobre NetSuite y escalamiento organizacional. Convierte las finanzas en una disciplina sobre la que la dirección puede actuar y, cuando hay IA de por medio, reduce el riesgo de la adopción alineando el despliegue técnico con la responsabilidad financiera. Donde otros persiguen el impulso, Rocío construye cimientos.
 
-Trabajamos en español y en inglés. Henderson, Nevada.
+### Hector Luis Alamo — Cofundador y CTO
+Más de una década en medios (editor en Latino Rebels, editor sénior en Futuro Media Group, editor gerente); autodidacta a través de CS50 de Harvard; certificados de HarvardX en Ciencia de Datos y ML y en CS para IA. Construyó los sistemas de IA en producción detrás de The Crash Log; diseña flujos de IA gobernados, pipelines de contenido bilingüe y sistemas agénticos que corren 24/7. Actualmente lidera la implementación de IA entre departamentos para un fabricante OEM internacional, construyendo copilotos de finanzas y de dirección. Piensa como periodista, construye como ingeniero y revisa como editor — sistemas auditables y explicables.
+
+## Cómo trabajamos
+
+- **Rigor antes que velocidad** — un flujo gobernado vale más que tres sin auditar; las barreras y la reversión son parte de la construcción, no un agregado posterior.
+- **Sociedad honesta** — si un enfoque más simple te sirve mejor, te lo decimos.
+- **Resultados antes que producción** — medimos adopción e impacto en ingresos, no líneas de código.
+
+Mide antes de construir; escala solo cuando los números lo digan.
 
 ## Este GitHub
 
@@ -31,4 +45,4 @@ Trabajamos en español y en inglés. Henderson, Nevada.
 
 Más de nuestros fundadores → **[github.com/hectorluisalamo](https://github.com/hectorluisalamo)**
 
-info@palamo.ai · [palamo.ai](https://palamo.ai) · [crashlog.ai](https://crashlog.ai)
+info@palamostudio.com · [palamostudio.com](https://www.palamostudio.com) · [crashlog.ai](https://crashlog.ai)
