@@ -2,11 +2,11 @@
 
 **IA gobernada. Finanzas disciplinadas.**
 
-Palamo fue fundada por Rocio Palma y Hector Alamo. <!-- pending brief: team-framing --> **Hector Luis Alamo** lidera la ingeniería de IA y **Rocio Palma** las finanzas. Trabaja con cualquiera de los dos por separado, o con ambos en conjunto; combínanos según lo que de verdad necesites. Dirigido por operadores, con base en Henderson, Nevada.
+Palamo fue fundada por Rocio Palma y Hector Alamo. **Hector Luis Alamo** lidera la ingeniería de IA y **Rocio Palma** las finanzas. Trabaja con cualquiera de los dos por separado, o con ambos en conjunto; combínanos según lo que de verdad necesites. Dirigido por operadores, con base en Henderson, Nevada.
 
 **[Read in English →](README.md)**
 
-Ayudamos a pequeñas y medianas empresas a implementar IA — y a manejar las finanzas que la rodean — con la gobernanza, la medición y la rendición de cuentas que exigen la dirección y los reguladores. <!-- pending brief: buyer --> No solo asesoramos: los mismos operadores que arman el plan son quienes hacen el trabajo, con trazabilidad de auditoría, diseño de reversión y reportes listos para el CFO desde el primer día.
+Ayudamos a pequeñas y medianas empresas a implementar IA — y a manejar las finanzas que la rodean — con la gobernanza, la medición y la rendición de cuentas que exigen la dirección y los reguladores. No solo asesoramos: los mismos operadores que arman el plan son quienes hacen el trabajo, con trazabilidad de auditoría, diseño de reversión y reportes listos para el CFO desde el primer día.
 
 ## Cómo trabajar con nosotros
 
